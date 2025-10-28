@@ -4,8 +4,9 @@
 - 🤔 Estudante - Ciência da Computação
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de jogar nas horas vagas!!
--->
+
 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxrdnox&show_icons=true&theme=transparent)
+<i class="devicon-php-plain colored"></i>
