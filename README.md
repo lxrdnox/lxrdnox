@@ -2,7 +2,7 @@
 
 - 🌱 Em processo de aprendizagem
 - 🤔 Estudante - Ciência da Computação
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/De Rebeca
 - ⚡ Fun fact: Gosto de jogar nas horas vagas!!
 
 
